@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'crm.apps.CrmConfig',
     'mathfilters',
     'django.contrib.humanize',
+    'django.conf',
     'import_export',
 ]
 
